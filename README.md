@@ -1,20 +1,20 @@
 # Hi, I'm Sean. 🤝
 
-I love figuring out what new technology makes possible, then building something real enough to test the idea.
-
-Right now, that means a lot of AI products, agents, skills, automations, and rapid prototypes.
+I love figuring out what new technology makes possible, then building something real enough to test the idea. Right now that mostly means AI: products, agents, and rapid prototypes.
 
 ## Building
 
-- **[Sandy Health](https://www.sandyhealth.com/)**: At Sandy, we're building AI-powered workflows that give medical practices time back and help them get paid for the care they deliver.
+- **[Sandy Health](https://www.sandyhealth.com/)**: Sandy verifies patient benefits, turns visits into clinical notes, and helps practices actually get paid for the care they deliver.
 
 - **[GeoThread](https://www.geothread.ai/)**: An inspection workflow platform that carries each report from field capture through AI validation, PE approval, and delivery in one thread.
 
-- **AI Learning Labs** *(Coming Soon)*: I wanted to understand LLMs from the foundations up, but I couldn't find a course that felt intuitive or interactive. So I started building the one I wanted. Other people found it useful too.
+- **AI Learning Labs** *(Coming Soon)*: I learn by building, so when I wanted to understand LLMs from the foundations up, I found so many good ways to learn that choosing felt harder than building my own. So I did. Other people found it useful too.
 
 ## How I build
 
-I use prototypes to learn. Claude (Chat, Cowork, Code, and Design), ChatGPT (Chat, Work, and Codex), and Cursor help me get an idea into working form quickly. Lately, I've been building agents, tools, skills, automations, MCP integrations, and better ways to design prompts and context.
+I'm always building, for work and for myself: prototypes, standalone products, websites, small tools that make my own day easier. It's how I learn what works, what doesn't, and what's actually worth building for users and the business. The ones that prove out stop being prototypes and ship.
+
+Claude (Chat, Cowork, Code, and Design), ChatGPT (Chat, Work, and Codex), and Cursor get an idea into working form fast. Lately that's meant agents, skills, automations, MCP integrations, and better ways to design prompts and context.
 
 I also advise and invest through Westfall Labs.
 
