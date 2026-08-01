@@ -1,6 +1,6 @@
 # Hi, I'm Sean. 🤝
 
-I love figuring out what new technology makes possible, then building something real enough to test the idea. Right now that mostly means AI: products, agents, and rapid prototypes.
+I love figuring out what new technology makes possible, then building something real enough to test the idea. Right now that mostly means AI: products, agents, skills, and lots of prototypes.
 
 ## Building
 
