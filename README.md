@@ -16,6 +16,6 @@ I'm always building, for work and for myself: prototypes, standalone products, w
 
 Claude (Chat, Cowork, Code, and Design), ChatGPT (Chat, Work, and Codex), and Cursor get an idea into working form fast. Lately that's meant agents, skills, automations, MCP integrations, and better ways to design prompts and context.
 
-I also advise and invest through Westfall Labs. 🧩
+I also advise early founders and invest in startups through Westfall Labs. 🧩
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/schireson/)
