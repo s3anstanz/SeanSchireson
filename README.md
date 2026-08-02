@@ -4,7 +4,7 @@ I love figuring out what new technology makes possible, then building something 
 
 ## What I'm building 🛠️
 
-- **[Sandy Health](https://www.sandyhealth.com/)**: Sandy verifies patient benefits, turns visits into clinical notes, and helps practices actually get paid for the care they deliver.
+- **[Sandy Health](https://www.sandyhealth.com/)**: Sandy leverages AI and automation to verifies patient benefits, turns visits into clinical notes, and helps practices actually get paid for the care they deliver.
 
 - **[GeoThread](https://www.geothread.ai/)**: An inspection workflow platform that carries each report from field capture through AI validation, PE approval, and delivery in one thread.
 
